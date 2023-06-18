@@ -19,7 +19,7 @@ class App extends Component {
   };
 
   handleEqual = () => {
-    this.setState({ input: math.eval(this.state.input) });
+    this.setState({ input: math.evaluate(this.state.input) });
   };
 
   render() {
@@ -37,7 +37,7 @@ class App extends Component {
             <Button handleClick={this.addToInput}>4</Button>
             <Button handleClick={this.addToInput}>5</Button>
             <Button handleClick={this.addToInput}>6</Button>
-            <Button handleClick={this.addToInput}>X</Button>
+            <Button handleClick={this.addToInput}>*</Button>
           </div>
           <div className="row">
             <Button handleClick={this.addToInput}>1</Button>

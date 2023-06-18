@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mohit8890/calculator-app/static/css/main.ee89a21e.css",
+    "main.js": "/mohit8890/calculator-app/static/js/main.eccc8a7f.js",
+    "index.html": "/mohit8890/calculator-app/index.html",
+    "main.ee89a21e.css.map": "/mohit8890/calculator-app/static/css/main.ee89a21e.css.map",
+    "main.eccc8a7f.js.map": "/mohit8890/calculator-app/static/js/main.eccc8a7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee89a21e.css",
+    "static/js/main.eccc8a7f.js"
+  ]
+}

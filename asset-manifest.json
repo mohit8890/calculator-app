@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/mohit8890/calculator-app/static/css/main.ee89a21e.css",
-    "main.js": "/mohit8890/calculator-app/static/js/main.eccc8a7f.js",
-    "index.html": "/mohit8890/calculator-app/index.html",
-    "main.ee89a21e.css.map": "/mohit8890/calculator-app/static/css/main.ee89a21e.css.map",
-    "main.eccc8a7f.js.map": "/mohit8890/calculator-app/static/js/main.eccc8a7f.js.map"
+    "main.css": "/mohit8890.github.io/word-count/static/css/main.d299ff1b.css",
+    "main.js": "/mohit8890.github.io/word-count/static/js/main.64c4e0ed.js",
+    "static/js/787.f2512186.chunk.js": "/mohit8890.github.io/word-count/static/js/787.f2512186.chunk.js",
+    "index.html": "/mohit8890.github.io/word-count/index.html",
+    "main.d299ff1b.css.map": "/mohit8890.github.io/word-count/static/css/main.d299ff1b.css.map",
+    "main.64c4e0ed.js.map": "/mohit8890.github.io/word-count/static/js/main.64c4e0ed.js.map",
+    "787.f2512186.chunk.js.map": "/mohit8890.github.io/word-count/static/js/787.f2512186.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee89a21e.css",
-    "static/js/main.eccc8a7f.js"
+    "static/css/main.d299ff1b.css",
+    "static/js/main.64c4e0ed.js"
   ]
 }
